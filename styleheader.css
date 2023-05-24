@@ -1,0 +1,135 @@
+*{
+  margin:0px;
+  padding: 0px;
+  font-family: "SoDo Sans Semibold",Helvetica,sans-serif;
+}
+
+.fixedheader{
+  width:100%;
+  height:72.8px;
+  margin:0px;
+  background-color: white;
+  position: sticky;
+  top:0;
+  z-index: 999;
+  border-bottom:0.5px solid #d1d2d3;
+}
+.container{
+  max-width:1320px;
+  height:72px;
+  margin: 0px 105.6px;
+  padding: 0px 12px;
+  
+  
+}
+.headflexwrap{
+  
+  align-items: center;
+  display: flex;
+  width:1296px;
+  height:100%;
+  
+}
+.uplogo{
+  width:40px;
+  height:40px;
+  margin:0px 16px;
+}
+.uplogoin{
+  width:100%; 
+}
+.navcol{
+  display: flex;
+  list-style-type: none;
+  width:493.29px;
+  height:72px;
+  margin: 0px 307.712px 0px 15px;
+ 
+  
+}
+.headrowlinks{
+  display: flex;
+  width:68.738px;
+ 
+  padding:0px 16px;
+  margin:16px 0px;
+  font-size: 14px;
+  width:100%;
+  align-items: center;
+  
+}
+.headrowlinksanchor{
+  width:100%;
+  color:#212529;
+  margin:0px 14px;
+  padding:8px 0px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.headrowlinksanchor:hover{
+  border-bottom: 2px solid #00754a;
+}/*
+.headrowlinksachor:visited{
+  color:#212529;
+}*/
+
+.inclsearchbar{
+  display: flex;
+  width:328px;
+  height:36px;
+  margin: 0px 16px 0px 0px;
+  
+  align-items: center;
+  border: 1px solid grey;
+  border-radius: 18px;
+  background-color: #fff;
+  box-shadow: 1px 2px 3px rgb(198, 196, 196);
+}
+.searchform{
+  padding-left: 10px;
+}
+/*.searchform{
+  
+  width:264px;
+  height:36px;
+  margin: 0px 64px 0px 0px;
+  
+}*/
+input{
+  background-color: white;
+  background-image: url(images/search.svg);
+  background-repeat: no-repeat;
+  padding-left: 30px;
+  border: none;
+  line-height: 1.5;
+  width:200px;
+  outline: none;
+  
+}
+.searchbar{
+  width:100%;
+  height:100%px;
+  background-color: white;
+  padding:6px 12px;
+}
+.magicon{
+  width:20px;
+  height:20px;
+  text-indent: 33px;
+}
+.prfleic{
+  width:64px;
+  height:32px;
+}
+.prflicnlogo{
+  width:32px;
+  height:32px;
+  margin:0px 16px;
+
+}
+
+
+.handcraftedelempics{
+  width:108px;
+  height:108px;
+}

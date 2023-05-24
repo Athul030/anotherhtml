@@ -1,0 +1,222 @@
+*{
+  font-family: "SoDo Sans Semibold",Helvetica,sans-serif;
+}
+.swipercontainer{
+  display: flex;
+  width:100%;
+  height:252px;
+  
+  justify-content: center;
+  align-items:center;
+}
+.swiperinsidecont{
+  
+  width:1270px;
+  height:188px;
+  background-color:#edd15b;
+  flex-wrap: wrap;
+  border-radius: 10px;
+}
+.swiperleftimg{
+  width:100px;
+  height:194px;
+}
+.detailedrows{
+  padding-left: 45px;
+  line-height: 2;
+}
+.card2head{
+  font-size: 20px;
+  font-weight: 600;
+}
+.card1, .card3text{
+  font-size: 14px;
+}
+
+.card5priceitle{
+  font-size: 10px;
+  color: rgb(79, 74, 74);
+}
+.rundfig{
+  font-size: 10px;
+}
+.ordernwbtn{
+  width:190px;
+  height:49px;
+  border-radius: 25px;
+  background-color: #00754a;
+  border: none;
+  color: white;
+  
+}
+
+.table3rdbtn{
+  text-align: end;
+  align-items: end;
+  justify-content: end;
+  padding-left: 280px;
+  padding-top: 80px;
+ 
+}
+
+/*
+.barstrecmnd{
+background-color: #f1f1f1;
+
+display: flex;
+width:100%;
+height:306.8px;
+margin:24px 0px 40px;
+padding: 32px 0px 64px;
+}
+.viewmenupic{
+  width:57px;
+  height:70px;
+  display: flex;
+  align-items: end;
+}
+.viewmenu{
+  height:15.35px;
+  color: #00754a;
+  align-self:flex-end;
+  padding-left: 920px;
+
+}
+.hazel, .hazel2, .hazel3{
+  width:80px;
+  height:80px;
+}
+.barrecswiper{
+  display: flex;
+  justify-content: space-between;
+  background-color: aqua;
+  
+}
+*/
+.belowsection{
+  width:100%;
+  height:496.8px;
+  background-color: rgb(141, 173, 151);
+}
+.learntext{
+  padding-top: 50px;;
+}
+.discvmr{
+  display: flex;
+  justify-content: end;
+  padding-right: 50px;
+ 
+}
+.blwimg{
+  width:1232px;
+  height:340px;
+  filter:brightness(30%);
+  
+}
+.cardmiddle{
+  position:relative;
+  bottom:170px;
+  left:50px;
+  color:white;
+  font-size:30px;
+}
+.cardmiddletxt{
+  position:relative;
+  bottom:150px;
+  left:50px;
+  color:white;
+  font-size:14px;
+}
+.learnmore{
+  position:relative;
+  width:200px;
+  height:32px;
+  bottom:120px;
+  left:50px;
+  color:black;
+  font-size:14px;
+  padding:8px;
+  border-radius: 10px;
+  border-style: none;
+  
+}
+
+.cardtoptext{
+  position:relative;
+  bottom:45px;
+  left:50px;
+  color:rgb(255, 255, 255);
+}
+
+.footersec{
+  width:100%;
+  height:480.4px;
+  background-color: #00754a;
+  color:white;
+  display: flex;
+  padding-top: 60px;
+  justify-content:space-between
+  
+}
+.flist1{
+  padding-top: 20px;
+  display: flex;
+  color:white;
+  flex-direction: column;
+  list-style: none;
+}
+.footer1stlistitem{
+  color:white;
+  line-height: 3;
+}
+.flist2{
+  
+  display: flex;
+  color:white;
+  flex-direction: column;
+  list-style: none;
+}
+.footer2ndlistitem{
+  padding-top: 20px;
+  color:white;
+  line-height: 3;
+}
+
+.bottomlinefooter{
+  display: flex;
+  
+  list-style: none;
+  color: rgb(232, 223, 223);
+}
+
+.bottomlinefooterelemanch{
+
+  color: white;
+  background-color: #00754a;
+  padding-left:90.3px;
+  text-decoration: none;
+  padding-bottom: 20px;
+  font-size: 13px;
+}
+
+.qklinksul{
+  padding-top: 20px;
+  line-height: 3;
+  list-style: none;
+}
+.socialul{
+  display: flex;
+  list-style: none;
+  line-height: 2;
+  padding-top: 20px;
+}
+.socialisticons{
+  padding-left: 8px;
+}
+.storeul{
+  list-style: none;
+}
+.footer1stlistitemanch, .footer2ndlistitemanch, .footer3rdlistitemanch{
+  color: white;
+  text-decoration: none;
+}
